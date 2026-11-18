@@ -1,12 +1,13 @@
 {
-  "version": "0.11.11",
-  "released": "2026-11-16",
-  "zip": "Citeside-v0.11.11.zip",
-  "sha256": "ae0749aa1b58ec65300e5dfb87b4e08444d8aeb89ad3e076bef1b5dd3ceb422b",
-  "size": 54058262,
-  "source_sha": "4039e74dd057e001d6d03f520b505af689478408",
+  "version": "0.11.13",
+  "released": "2026-11-18",
+  "zip": "Citeside-v0.11.13.zip",
+  "sha256": "fc486cb7651feea330d9b0aae2bb274e3408ed2b337ab84f4b179463a8c4d6fe",
+  "size": 54232097,
+  "source_sha": "7b044ac4518d285fcedca0ae49cf5d24f8a129bd",
   "channel": "stable",
   "min_macos": 13,
-  "recording_acceptance": "pending",
-  "notes": "更新入口与设置并列，明确显示下载、安装和完成状态。\n更新说明更简洁，切换通道不会自动安装。\n修复完整 App 同步的本地复制超时与错误提示，保留会议、账号和设置。；个人试用，产品与真实会议验收待使用者完成。"
+  "recording_acceptance": "passed",
+  "notes": "统一完整三栏与极简小窗；修复切换、续录计时与录音控制；会中参考结合外部案例与项目记忆，深度研究按需开启。",
+  "feed_prefix": "runtime-v2/"
 }
