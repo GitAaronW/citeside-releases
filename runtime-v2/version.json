@@ -1,13 +1,13 @@
 {
-  "version": "0.11.13",
+  "version": "0.11.14",
   "released": "2026-11-18",
-  "zip": "Citeside-v0.11.13.zip",
-  "sha256": "fc486cb7651feea330d9b0aae2bb274e3408ed2b337ab84f4b179463a8c4d6fe",
-  "size": 54232097,
-  "source_sha": "7b044ac4518d285fcedca0ae49cf5d24f8a129bd",
+  "zip": "Citeside-v0.11.14.zip",
+  "sha256": "97a0f3ce568e1231673a3e8b3a04eefe6fd4d1f4fac3ef2677c2d9c6cef0edeb",
+  "size": 54230103,
+  "source_sha": "1e0160d11ff91f9910029a0dedab801fe4fd9b6e",
   "channel": "stable",
   "min_macos": 13,
   "recording_acceptance": "passed",
-  "notes": "统一完整三栏与极简小窗；修复切换、续录计时与录音控制；会中参考结合外部案例与项目记忆，深度研究按需开启。",
+  "notes": "修复主动智能请求失败、思考输出预算不足和阶段超时导致的不出卡；修复异常后智能任务无法恢复。保留现有界面、会议资料和录音权限。",
   "feed_prefix": "runtime-v2/"
 }
