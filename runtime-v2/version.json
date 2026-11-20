@@ -1,13 +1,13 @@
 {
-  "version": "0.11.14",
-  "released": "2026-11-18",
-  "zip": "Citeside-v0.11.14.zip",
-  "sha256": "97a0f3ce568e1231673a3e8b3a04eefe6fd4d1f4fac3ef2677c2d9c6cef0edeb",
-  "size": 54230103,
-  "source_sha": "1e0160d11ff91f9910029a0dedab801fe4fd9b6e",
+  "version": "0.11.15",
+  "released": "2026-11-20",
+  "zip": "Citeside-v0.11.15.zip",
+  "sha256": "b6289638c0a92abbf54df56813c95b1728c5a368a68892fb536728424e706d15",
+  "size": 55237066,
+  "source_sha": "5aff3c8d59d179554add71efe9b06792fe0c6310",
   "channel": "stable",
   "min_macos": 13,
   "recording_acceptance": "passed",
-  "notes": "修复主动智能请求失败、思考输出预算不足和阶段超时导致的不出卡；修复异常后智能任务无法恢复。保留现有界面、会议资料和录音权限。",
+  "notes": "升级主动智能为「事中诸葛亮」去铺垫结构化出卡并新增顶部场景理解条；新增「我的任务提前试跑」与三态可逆交给外部 AI 出口；新增 AI Native 用户反馈预览闭环；优化窗口切换缓存与三级缩放切窗流畅度；已完成 Apple 官方公证与双架构签名。",
   "feed_prefix": "runtime-v2/"
 }
