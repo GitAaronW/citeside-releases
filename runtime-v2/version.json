@@ -1,13 +1,13 @@
 {
-  "version": "0.11.19",
+  "version": "0.11.20",
   "released": "2026-11-23",
-  "zip": "Citeside-v0.11.19.zip",
-  "sha256": "cd166c4f52489f224d976f43c99445f5afb71a24e90acdc265e09310e31e5158",
-  "size": 38224622,
-  "source_sha": "24e40b4",
+  "zip": "Citeside-v0.11.20.zip",
+  "sha256": "eec28720af0e2b7f5b1e643d4776c801a12db7fa01bc11866baf4f8e6d3d4ad4",
+  "size": 38225353,
+  "source_sha": "3cdc589",
   "channel": "stable",
   "min_macos": 13,
   "recording_acceptance": "passed",
-  "notes": "彻底修复实时转写延迟（火山 5 秒强制切句 + interimText 实时同步到左栏与底栏末尾滚动）；根治主动智能出卡误杀（写卡 JSON 容错重试、放行加减差值与两位年份、JEV 503 指数退避）；事实核查强制带主语且来源胶囊保留维基百科/百科/知乎平台名；时间轴改用现实时间并去重去噪；屏蔽无语义无来源的纯复述卡；一键反馈新增云端直传上报。",
+  "notes": "打通云端 Tavily 权威联网搜索并加入早停与本场去重缓存（省约 60% 搜索额度）；禁止无核对引文时盲贴无关网页；瘦身写卡上下文至 4200 字以内彻底消除超长空卡；历史政策纠偏严格按时间线分清前后口径并禁止跨单位数字对比。",
   "feed_prefix": "runtime-v2/"
 }
