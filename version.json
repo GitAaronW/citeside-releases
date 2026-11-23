@@ -1,12 +1,12 @@
 {
-  "version": "0.11.20",
+  "version": "0.11.21",
   "released": "2026-11-23",
-  "zip": "Citeside-v0.11.20.zip",
-  "sha256": "2c33b5fcc48216ae8d7bfd0e220054a10f8bf205849f7bb52a5a04b369aa5760",
-  "size": 33832347,
-  "source_sha": "1223508b701723349774e3a11c04e0441178ba9b",
+  "zip": "Citeside-v0.11.21.zip",
+  "sha256": "8e415073dbecf8b954913ba90037ec00e2d44f5119f74527fe65a2159828cbdd",
+  "size": 33832329,
+  "source_sha": "a554af2ba601dbad4d01f5e4ff126a2256040090",
   "channel": "stable",
   "min_macos": 13,
   "recording_acceptance": "passed",
-  "notes": "升级单脑主动智能引擎 v3（更快出卡、降低延迟与 Token 消耗、全角数字与权威信源核验更稳）；统一主窗口与极简小窗卡片流和「已结束 / 讨论收尾」状态条；新增首页历史会议自定义重命名；修复点击结束后偶发声音连接报错提示。"
+  "notes": "修复单脑主动智能引擎 v3 卡片状态校验（isCurrent）导致的真实会议偶发不出卡问题，并将真实 InsightFeed 链路纳入发版前强制 E2E 门禁；保留双窗一致性、「已结束 / 讨论收尾」状态条与首页会议重命名。"
 }
