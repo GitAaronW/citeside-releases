@@ -1,12 +1,10 @@
 {
-  "version": "0.11.21",
-  "released": "2026-11-23",
-  "zip": "Citeside-v0.11.21.zip",
-  "sha256": "8e415073dbecf8b954913ba90037ec00e2d44f5119f74527fe65a2159828cbdd",
-  "size": 33832329,
-  "source_sha": "a554af2ba601dbad4d01f5e4ff126a2256040090",
-  "channel": "stable",
+  "version": "0.11.22",
+  "released": "2026-11-24",
+  "zip": "Citeside-v0.11.22.zip",
+  "notes": "Single-Brain v3 decoupled insight + verification probes on Gemini 3.5 Flash with 32k live context window; restored hover Deep Research buttons across Main & Lite windows; unified post-meeting summary across Outputs sidebar, Home, and /meeting-minutes; branded trilingual OAuth callback & actionable Home schedule.",
   "min_macos": 13,
-  "recording_acceptance": "passed",
-  "notes": "修复单脑主动智能引擎 v3 卡片状态校验（isCurrent）导致的真实会议偶发不出卡问题，并将真实 InsightFeed 链路纳入发版前强制 E2E 门禁；保留双窗一致性、「已结束 / 讨论收尾」状态条与首页会议重命名。"
+  "stable_zip": "Citeside.zip",
+  "channel": "stable",
+  "recording_acceptance": "passed"
 }
