@@ -2,7 +2,27 @@
   "version": "0.11.22",
   "released": "2026-11-24",
   "zip": "Citeside-v0.11.22.zip",
-  "notes": "Single-Brain v3 decoupled insight + verification probes on Gemini 3.5 Flash with 32k live context window; restored hover Deep Research buttons across Main & Lite windows; unified post-meeting summary across Outputs sidebar, Home, and /meeting-minutes; branded trilingual OAuth callback & actionable Home schedule.",
+  "notes": "⚡ 实时洞察升级：长会议分析更稳定、更精准\n🔍 悬停「深度研究」在主窗口与小窗全面恢复\n📝 会议纪要与网页链接完整同步，一键直达\n📅 首页日程支持一键入会，修复多项细节问题",
+  "notes_i18n": {
+    "zh": [
+      "⚡ 实时洞察升级：长会议分析更稳定、更精准",
+      "🔍 悬停「深度研究」在主窗口与小窗全面恢复",
+      "📝 会议纪要与网页链接完整同步，一键直达",
+      "📅 首页日程支持一键入会，修复多项细节问题"
+    ],
+    "en": [
+      "⚡ Faster, deeper live insights for long meetings",
+      "🔍 Restored hover Deep Research in Main & Lite windows",
+      "📝 Synced post-meeting summaries across sidebar & web links",
+      "📅 Added 1-click meeting join on Home + bug fixes"
+    ],
+    "ja": [
+      "⚡ 長時間会議のリアルタイム洞察を強化",
+      "🔍 両ウィンドウでホバー「深掘り調査」を復旧",
+      "📝 議事録をサイドバーとWebリンクで完全同期",
+      "📅 ホーム予定からのワンクリック参加＋不具合修正"
+    ]
+  },
   "min_macos": 13,
   "stable_zip": "Citeside.zip",
   "channel": "stable",
