@@ -1,29 +1,29 @@
 {
-  "version": "0.11.23",
-  "released": "2026-11-24",
-  "zip": "Citeside-v0.11.23.zip",
-  "sha256": "ac549b66711d3fc73ab329feb322ddecac41eec6302e301d17aac729d8e1d6f6",
-  "size": 33992771,
-  "source_sha": "3d91786",
-  "notes": "✨ 会后闭环升级：主时间线直接展示纪要整理进度，App 内原生阅读完整纪要\n🎨 双色洞察与极简悬停：事实核查（玫红）与关键盲区（靛紫）清晰区分\n🔌 AI 知识库 MCP：新增 4 个只读工具，Claude / Cursor / Codex 随时读取会议知识\n📅 首页历史过滤未开日程占位，点开即进工作区，并修复会员页与标签页图标",
+  "version": "0.11.24",
+  "released": "2026-11-25",
+  "zip": "Citeside-v0.11.24.zip",
+  "sha256": "46fdf0b15f5278399d61031ef273d1d24e332fa568c8cd5bea2b41c8ab0ef53e",
+  "size": 34058273,
+  "source_sha": "ce6d5b8",
+  "notes": "✨ 主窗直出完整纪要 & 24h 真过期云分享，支持 Antigravity MCP 一键直连会议知识库\n🛡️ 根治 P0 僵尸录音死锁、无麦自动降级仅录系统声，深度研究结果防蒸发落盘\n🎯 2026 真实日期事实核查 & Opus 声道防污染记忆，洞察更准更稳\n🎨 Apple HIG 单轨时间轴与设置页全面升级，搭配 Retina 零错位 DMG 安装体验",
   "notes_i18n": {
     "zh": [
-      "✨ 会后闭环升级：主时间线直接展示纪要整理进度，App 内原生阅读完整纪要",
-      "🎨 双色洞察与极简悬停：事实核查（玫红）与关键盲区（靛紫）清晰区分",
-      "🔌 AI 知识库 MCP：新增 4 个只读工具，Claude / Cursor / Codex 随时读取会议知识",
-      "📅 首页历史过滤未开日程占位，点开即进工作区，并修复会员页与标签页图标"
+      "✨ 主窗直出完整纪要 & 24h 真过期云分享，支持 Antigravity MCP 一键直连会议知识库",
+      "🛡️ 根治 P0 僵尸录音死锁、无麦自动降级仅录系统声，深度研究结果防蒸发落盘",
+      "🎯 2026 真实日期事实核查 & Opus 声道防污染记忆，洞察更准更稳",
+      "🎨 Apple HIG 单轨时间轴与设置页全面升级，搭配 Retina 零错位 DMG 安装体验"
     ],
     "en": [
-      "✨ Post-meeting closure: inline summary progress card & native in-app Meeting Minutes viewer",
-      "🎨 Dual-tone insights & clean hover: distinct Fact-Check (rose) vs Blind Spot (indigo) cards",
-      "🔌 Read-only AI Knowledge Base MCP: 4 tools for Claude, Cursor & Codex to query meetings, minutes, todos & research",
-      "📅 Cleaner Home history (filters unheld future events), direct workspace open, plus account & favicon polish"
+      "✨ Full inline Meeting Minutes in main window, true 24h expiring cloud share & 1-click Antigravity MCP connect",
+      "🛡️ Fixed P0 zombie recording deadlock, mic-less fallback to system audio & persistent Deep Research results",
+      "🎯 Accurate 2026 real-date fact-checking & Opus channel isolation to prevent memory pollution",
+      "🎨 Apple HIG single-track timeline, refreshed Settings & pixel-accurate Retina DMG installer"
     ],
     "ja": [
-      "✨ 会議後フロー刷新：タイムラインに要約進捗カードを表示し、アプリ内で議事録をそのまま閲覧可能に",
-      "🎨 2色インサイト＆シンプル操作：ファクトチェック（ローズ）と盲点（インディゴ）を明確に色分け",
-      "🔌 AI ナレッジベース MCP：会議・議事録・ToDo・調査レポートを読み取る4つの読み取り専用ツールを追加",
-      "📅 未開催の予定を履歴から除外、ワークスペース直遷移、会員画面とファビコンを改善"
+      "✨ メイン画面で完全な議事録を直接表示、24時間自動失効クラウド共有＆Antigravity MCP ワンクリック接続",
+      "🛡️ P0 ゾンビ録音デッドロック解消、マイクなし時のシステム音声のみフォールバック、深掘り調査の永続保存",
+      "🎯 2026年実日付ベースのファクトチェック＆Opus チャンネル分離によるメモリ汚染防止",
+      "🎨 Apple HIG 単一トラックタイムライン＆設定画面刷新、Retina 完全対応 DMG インストーラー"
     ]
   },
   "min_macos": 13,
