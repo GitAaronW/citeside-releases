@@ -1,26 +1,29 @@
 {
-  "version": "0.11.22",
+  "version": "0.11.23",
   "released": "2026-11-24",
-  "zip": "Citeside-v0.11.22.zip",
-  "notes": "⚡ 实时洞察升级：长会议分析更稳定、更精准\n🔍 悬停「深度研究」在主窗口与小窗全面恢复\n📝 会议纪要与网页链接完整同步，一键直达\n📅 首页日程支持一键入会，修复多项细节问题",
+  "zip": "Citeside-v0.11.23.zip",
+  "sha256": "ac549b66711d3fc73ab329feb322ddecac41eec6302e301d17aac729d8e1d6f6",
+  "size": 33992771,
+  "source_sha": "3d91786",
+  "notes": "✨ 会后闭环升级：主时间线直接展示纪要整理进度，App 内原生阅读完整纪要\n🎨 双色洞察与极简悬停：事实核查（玫红）与关键盲区（靛紫）清晰区分\n🔌 AI 知识库 MCP：新增 4 个只读工具，Claude / Cursor / Codex 随时读取会议知识\n📅 首页历史过滤未开日程占位，点开即进工作区，并修复会员页与标签页图标",
   "notes_i18n": {
     "zh": [
-      "⚡ 实时洞察升级：长会议分析更稳定、更精准",
-      "🔍 悬停「深度研究」在主窗口与小窗全面恢复",
-      "📝 会议纪要与网页链接完整同步，一键直达",
-      "📅 首页日程支持一键入会，修复多项细节问题"
+      "✨ 会后闭环升级：主时间线直接展示纪要整理进度，App 内原生阅读完整纪要",
+      "🎨 双色洞察与极简悬停：事实核查（玫红）与关键盲区（靛紫）清晰区分",
+      "🔌 AI 知识库 MCP：新增 4 个只读工具，Claude / Cursor / Codex 随时读取会议知识",
+      "📅 首页历史过滤未开日程占位，点开即进工作区，并修复会员页与标签页图标"
     ],
     "en": [
-      "⚡ Faster, deeper live insights for long meetings",
-      "🔍 Restored hover Deep Research in Main & Lite windows",
-      "📝 Synced post-meeting summaries across sidebar & web links",
-      "📅 Added 1-click meeting join on Home + bug fixes"
+      "✨ Post-meeting closure: inline summary progress card & native in-app Meeting Minutes viewer",
+      "🎨 Dual-tone insights & clean hover: distinct Fact-Check (rose) vs Blind Spot (indigo) cards",
+      "🔌 Read-only AI Knowledge Base MCP: 4 tools for Claude, Cursor & Codex to query meetings, minutes, todos & research",
+      "📅 Cleaner Home history (filters unheld future events), direct workspace open, plus account & favicon polish"
     ],
     "ja": [
-      "⚡ 長時間会議のリアルタイム洞察を強化",
-      "🔍 両ウィンドウでホバー「深掘り調査」を復旧",
-      "📝 議事録をサイドバーとWebリンクで完全同期",
-      "📅 ホーム予定からのワンクリック参加＋不具合修正"
+      "✨ 会議後フロー刷新：タイムラインに要約進捗カードを表示し、アプリ内で議事録をそのまま閲覧可能に",
+      "🎨 2色インサイト＆シンプル操作：ファクトチェック（ローズ）と盲点（インディゴ）を明確に色分け",
+      "🔌 AI ナレッジベース MCP：会議・議事録・ToDo・調査レポートを読み取る4つの読み取り専用ツールを追加",
+      "📅 未開催の予定を履歴から除外、ワークスペース直遷移、会員画面とファビコンを改善"
     ]
   },
   "min_macos": 13,
