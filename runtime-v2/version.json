@@ -1,13 +1,34 @@
 {
-  "version": "0.11.20",
-  "released": "2026-11-23",
-  "zip": "Citeside-v0.11.20.zip",
-  "sha256": "eec28720af0e2b7f5b1e643d4776c801a12db7fa01bc11866baf4f8e6d3d4ad4",
-  "size": 38225353,
-  "source_sha": "3cdc589",
-  "channel": "stable",
+  "version": "0.11.25",
+  "released": "2026-11-25",
+  "zip": "Citeside-v0.11.25.zip",
+  "sha256": "f21249899b0571386b4ec06e3a3e99d5e43ca0dfe92629cf6ae52e9839afe45c",
+  "size": 33958843,
+  "source_sha": "42cffaf",
+  "notes": "✨ Apple HIG 极简升级：账号可视化进度条、隐私原生开关、冷静右侧产出栏与无前缀 Notion 按钮\n⚡ 深度研究 3 类泛化快查卡（事实核查口径对比 / 关键盲区命题拆解 / 外部案例对照表），零 UUID 泄漏\n🤖 会议结束静默自动停录总结 + 低频共享屏有界快照，实时讨论防空跑更稳更准\n🔄 修复老版本更新推送与更新栏刷新按钮，极简小窗新增「首页」直达入口",
+  "notes_i18n": {
+    "zh": [
+      "✨ Apple HIG 极简升级：账号可视化进度条、隐私原生开关、冷静右侧产出栏与无前缀 Notion 按钮",
+      "⚡ 深度研究 3 类泛化快查卡（事实核查口径对比 / 关键盲区命题拆解 / 外部案例对照表），零 UUID 泄漏",
+      "🤖 会议结束静默自动停录总结 + 低频共享屏有界快照，实时讨论防空跑更稳更准",
+      "🔄 修复老版本更新推送与更新栏刷新按钮，极简小窗新增「首页」直达入口"
+    ],
+    "en": [
+      "✨ Minimal Apple HIG polish: visual quota progress bars, native macOS privacy switches & calm Outputs inspector",
+      "⚡ Generalized 3-type Deep Research fast cards (Fact Check tables / Blind Spot breakdown / External Case precedents)",
+      "🤖 Auto-stop & auto-summarize on sustained silence + bounded low-frequency shared-screen snapshots",
+      "🔄 Fixed legacy update delivery & refresh bar button, plus direct Home shortcut in Lite window"
+    ],
+    "ja": [
+      "✨ Apple HIG ミニマル刷新：使用量プログレスバー、ネイティブプライバシー切替、落ち着いた出力パネル",
+      "⚡ 深掘り調査3タイプ対応（ファクトチェック比較表・盲点命題分解・外部事例対照表）とUUID除去",
+      "🤖 無音検知による自動終了＆自動要約、低頻度共有画面スナップショット（上限管理）に対応",
+      "🔄 旧バージョンへの更新配信と更新バー不具合を修正、ミニ画面にホーム直行ボタンを追加"
+    ]
+  },
   "min_macos": 13,
+  "stable_zip": "Citeside.zip",
+  "channel": "stable",
   "recording_acceptance": "passed",
-  "notes": "打通云端 Tavily 权威联网搜索并加入早停与本场去重缓存（省约 60% 搜索额度）；禁止无核对引文时盲贴无关网页；瘦身写卡上下文至 4200 字以内彻底消除超长空卡；历史政策纠偏严格按时间线分清前后口径并禁止跨单位数字对比。",
   "feed_prefix": "runtime-v2/"
 }

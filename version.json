@@ -1,29 +1,29 @@
 {
-  "version": "0.11.24",
+  "version": "0.11.25",
   "released": "2026-11-25",
-  "zip": "Citeside-v0.11.24.zip",
-  "sha256": "46fdf0b15f5278399d61031ef273d1d24e332fa568c8cd5bea2b41c8ab0ef53e",
-  "size": 34058273,
-  "source_sha": "ce6d5b8",
-  "notes": "✨ 主窗直出完整纪要 & 24h 真过期云分享，支持 Antigravity MCP 一键直连会议知识库\n🛡️ 根治 P0 僵尸录音死锁、无麦自动降级仅录系统声，深度研究结果防蒸发落盘\n🎯 2026 真实日期事实核查 & Opus 声道防污染记忆，洞察更准更稳\n🎨 Apple HIG 单轨时间轴与设置页全面升级，搭配 Retina 零错位 DMG 安装体验",
+  "zip": "Citeside-v0.11.25.zip",
+  "sha256": "f21249899b0571386b4ec06e3a3e99d5e43ca0dfe92629cf6ae52e9839afe45c",
+  "size": 33958843,
+  "source_sha": "42cffaf",
+  "notes": "✨ Apple HIG 极简升级：账号可视化进度条、隐私原生开关、冷静右侧产出栏与无前缀 Notion 按钮\n⚡ 深度研究 3 类泛化快查卡（事实核查口径对比 / 关键盲区命题拆解 / 外部案例对照表），零 UUID 泄漏\n🤖 会议结束静默自动停录总结 + 低频共享屏有界快照，实时讨论防空跑更稳更准\n🔄 修复老版本更新推送与更新栏刷新按钮，极简小窗新增「首页」直达入口",
   "notes_i18n": {
     "zh": [
-      "✨ 主窗直出完整纪要 & 24h 真过期云分享，支持 Antigravity MCP 一键直连会议知识库",
-      "🛡️ 根治 P0 僵尸录音死锁、无麦自动降级仅录系统声，深度研究结果防蒸发落盘",
-      "🎯 2026 真实日期事实核查 & Opus 声道防污染记忆，洞察更准更稳",
-      "🎨 Apple HIG 单轨时间轴与设置页全面升级，搭配 Retina 零错位 DMG 安装体验"
+      "✨ Apple HIG 极简升级：账号可视化进度条、隐私原生开关、冷静右侧产出栏与无前缀 Notion 按钮",
+      "⚡ 深度研究 3 类泛化快查卡（事实核查口径对比 / 关键盲区命题拆解 / 外部案例对照表），零 UUID 泄漏",
+      "🤖 会议结束静默自动停录总结 + 低频共享屏有界快照，实时讨论防空跑更稳更准",
+      "🔄 修复老版本更新推送与更新栏刷新按钮，极简小窗新增「首页」直达入口"
     ],
     "en": [
-      "✨ Full inline Meeting Minutes in main window, true 24h expiring cloud share & 1-click Antigravity MCP connect",
-      "🛡️ Fixed P0 zombie recording deadlock, mic-less fallback to system audio & persistent Deep Research results",
-      "🎯 Accurate 2026 real-date fact-checking & Opus channel isolation to prevent memory pollution",
-      "🎨 Apple HIG single-track timeline, refreshed Settings & pixel-accurate Retina DMG installer"
+      "✨ Minimal Apple HIG polish: visual quota progress bars, native macOS privacy switches & calm Outputs inspector",
+      "⚡ Generalized 3-type Deep Research fast cards (Fact Check tables / Blind Spot breakdown / External Case precedents)",
+      "🤖 Auto-stop & auto-summarize on sustained silence + bounded low-frequency shared-screen snapshots",
+      "🔄 Fixed legacy update delivery & refresh bar button, plus direct Home shortcut in Lite window"
     ],
     "ja": [
-      "✨ メイン画面で完全な議事録を直接表示、24時間自動失効クラウド共有＆Antigravity MCP ワンクリック接続",
-      "🛡️ P0 ゾンビ録音デッドロック解消、マイクなし時のシステム音声のみフォールバック、深掘り調査の永続保存",
-      "🎯 2026年実日付ベースのファクトチェック＆Opus チャンネル分離によるメモリ汚染防止",
-      "🎨 Apple HIG 単一トラックタイムライン＆設定画面刷新、Retina 完全対応 DMG インストーラー"
+      "✨ Apple HIG ミニマル刷新：使用量プログレスバー、ネイティブプライバシー切替、落ち着いた出力パネル",
+      "⚡ 深掘り調査3タイプ対応（ファクトチェック比較表・盲点命題分解・外部事例対照表）とUUID除去",
+      "🤖 無音検知による自動終了＆自動要約、低頻度共有画面スナップショット（上限管理）に対応",
+      "🔄 旧バージョンへの更新配信と更新バー不具合を修正、ミニ画面にホーム直行ボタンを追加"
     ]
   },
   "min_macos": 13,
