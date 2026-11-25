@@ -1,29 +1,26 @@
 {
-  "version": "0.11.25",
+  "version": "0.11.26",
   "released": "2026-11-25",
-  "zip": "Citeside-v0.11.25.zip",
-  "sha256": "f21249899b0571386b4ec06e3a3e99d5e43ca0dfe92629cf6ae52e9839afe45c",
-  "size": 33958843,
-  "source_sha": "42cffaf",
-  "notes": "✨ Apple HIG 极简升级：账号可视化进度条、隐私原生开关、冷静右侧产出栏与无前缀 Notion 按钮\n⚡ 深度研究 3 类泛化快查卡（事实核查口径对比 / 关键盲区命题拆解 / 外部案例对照表），零 UUID 泄漏\n🤖 会议结束静默自动停录总结 + 低频共享屏有界快照，实时讨论防空跑更稳更准\n🔄 修复老版本更新推送与更新栏刷新按钮，极简小窗新增「首页」直达入口",
+  "zip": "Citeside-v0.11.26.zip",
+  "sha256": "a5770c338d86f001de765a5441430dc93360852f94f432cf4fa89dc68a0b5882",
+  "size": 33960906,
+  "source_sha": "228ce5d",
+  "notes": "⚡ 修复英文会议+中文界面下「正在发生什么」首条概览不显示问题（跨语种接地放行 + 首条强制出概览）\n🎯 真正接通「积极模式」会中灵敏度，访谈/讨论类会议前 1–2 分钟即可稳定出事实核查、关键盲区与外部案例卡\n🛡️ 引入顶级工程团队标准的「全量 866 测试棘轮发版硬门禁」，每次公证发版前自动拦截任何绿灯退化",
   "notes_i18n": {
     "zh": [
-      "✨ Apple HIG 极简升级：账号可视化进度条、隐私原生开关、冷静右侧产出栏与无前缀 Notion 按钮",
-      "⚡ 深度研究 3 类泛化快查卡（事实核查口径对比 / 关键盲区命题拆解 / 外部案例对照表），零 UUID 泄漏",
-      "🤖 会议结束静默自动停录总结 + 低频共享屏有界快照，实时讨论防空跑更稳更准",
-      "🔄 修复老版本更新推送与更新栏刷新按钮，极简小窗新增「首页」直达入口"
+      "⚡ 修复英文会议+中文界面下「正在发生什么」首条概览不显示问题（跨语种接地放行 + 首条强制出概览）",
+      "🎯 真正接通「积极模式」会中灵敏度，访谈/讨论类会议前 1–2 分钟即可稳定出事实核查、关键盲区与外部案例卡",
+      "🛡️ 引入顶级工程团队标准的「全量 866 测试棘轮发版硬门禁」，每次公证发版前自动拦截任何绿灯退化"
     ],
     "en": [
-      "✨ Minimal Apple HIG polish: visual quota progress bars, native macOS privacy switches & calm Outputs inspector",
-      "⚡ Generalized 3-type Deep Research fast cards (Fact Check tables / Blind Spot breakdown / External Case precedents)",
-      "🤖 Auto-stop & auto-summarize on sustained silence + bounded low-frequency shared-screen snapshots",
-      "🔄 Fixed legacy update delivery & refresh bar button, plus direct Home shortcut in Lite window"
+      "⚡ Fixed missing first live recap for English meetings in Chinese UI (first-recap enforcement + cross-language grounding)",
+      "🎯 Wired Active Mode sensitivity into Stage 1 triage for timely fact-checks, blind spots & external cases",
+      "🛡️ Added Ratchet Full-Suite Release Gate (866 tests) directly before Apple notarization to block any regression"
     ],
     "ja": [
-      "✨ Apple HIG ミニマル刷新：使用量プログレスバー、ネイティブプライバシー切替、落ち着いた出力パネル",
-      "⚡ 深掘り調査3タイプ対応（ファクトチェック比較表・盲点命題分解・外部事例対照表）とUUID除去",
-      "🤖 無音検知による自動終了＆自動要約、低頻度共有画面スナップショット（上限管理）に対応",
-      "🔄 旧バージョンへの更新配信と更新バー不具合を修正、ミニ画面にホーム直行ボタンを追加"
+      "⚡ 英語会議＋中国語UIで初回のリアルタイム要約が表示されない不具合を修正",
+      "🎯 アクティブモードの感度を一次判定に正式接続し、インタビューや議論でも適時にカードを表示",
+      "🛡️ Apple公証前に全866テストを実行するラチェット回帰防止ゲートを導入"
     ]
   },
   "min_macos": 13,
