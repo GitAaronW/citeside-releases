@@ -1,26 +1,26 @@
 {
-  "version": "0.11.26",
+  "version": "0.11.27",
   "released": "2026-11-25",
-  "zip": "Citeside-v0.11.26.zip",
-  "sha256": "a5770c338d86f001de765a5441430dc93360852f94f432cf4fa89dc68a0b5882",
-  "size": 33960906,
-  "source_sha": "228ce5d",
-  "notes": "⚡ 修复英文会议+中文界面下「正在发生什么」首条概览不显示问题（跨语种接地放行 + 首条强制出概览）\n🎯 真正接通「积极模式」会中灵敏度，访谈/讨论类会议前 1–2 分钟即可稳定出事实核查、关键盲区与外部案例卡\n🛡️ 引入顶级工程团队标准的「全量 866 测试棘轮发版硬门禁」，每次公证发版前自动拦截任何绿灯退化",
+  "zip": "Citeside-v0.11.27.zip",
+  "sha256": "820fdcd80753125861738da8607ac44bf327fb4459853d8be4198577c3d46a46",
+  "size": 33965838,
+  "source_sha": "162b160",
+  "notes": "💰 Issue #85 降本 85%：桌面端 5 类高频低推理任务（标题/看板翻译/检索词/会中核查/记忆归并）全部降级 Flash Lite\n📝 全球 Top 5 会议纪要升级：五段式幕僚长结构（核心摘要 / 关键结论与共识 / 议题精要 / 行动项 / 待决问题与风险）\n🔗 云分享与本机纪要可读性全面升级：消灭裸 Markdown 外链与灰点分割线，呈现清晰议题层级与高亮行动卡片",
   "notes_i18n": {
     "zh": [
-      "⚡ 修复英文会议+中文界面下「正在发生什么」首条概览不显示问题（跨语种接地放行 + 首条强制出概览）",
-      "🎯 真正接通「积极模式」会中灵敏度，访谈/讨论类会议前 1–2 分钟即可稳定出事实核查、关键盲区与外部案例卡",
-      "🛡️ 引入顶级工程团队标准的「全量 866 测试棘轮发版硬门禁」，每次公证发版前自动拦截任何绿灯退化"
+      "💰 Issue #85 降本 85%：桌面端 5 类高频低推理任务（标题/看板翻译/检索词/会中核查/记忆归并）全部降级 Flash Lite",
+      "📝 全球 Top 5 会议纪要升级：五段式幕僚长结构（核心摘要 / 关键结论与共识 / 议题精要 / 行动项 / 待决问题与风险）",
+      "🔗 云分享与本机纪要可读性全面升级：消灭裸 Markdown 外链与灰点分割线，呈现清晰议题层级与高亮行动卡片"
     ],
     "en": [
-      "⚡ Fixed missing first live recap for English meetings in Chinese UI (first-recap enforcement + cross-language grounding)",
-      "🎯 Wired Active Mode sensitivity into Stage 1 triage for timely fact-checks, blind spots & external cases",
-      "🛡️ Added Ratchet Full-Suite Release Gate (866 tests) directly before Apple notarization to block any regression"
+      "💰 Issue #85 cost optimization: downgraded 5 high-frequency low-reasoning tasks to Flash Lite fast lane",
+      "📝 World Top-5 executive meeting minutes: 5-part Chief-of-Staff structure (TL;DR, Decisions, Topics, Actions, Risks)",
+      "🔗 Rich cloud share & minutes readability: clickable blue links, clean dividers, topic headers & action callouts"
     ],
     "ja": [
-      "⚡ 英語会議＋中国語UIで初回のリアルタイム要約が表示されない不具合を修正",
-      "🎯 アクティブモードの感度を一次判定に正式接続し、インタビューや議論でも適時にカードを表示",
-      "🛡️ Apple公証前に全866テストを実行するラチェット回帰防止ゲートを導入"
+      "💰 Issue #85 コスト削減：タイトル・翻訳・検索クエリ等の低推論5処理を Flash Lite に最適化",
+      "📝 世界トップ5水準の5部構成議事録テンプレート（要約・合意事項・トピック別要点・アクション・未決課題）",
+      "🔗 クラウド共有と議事録の可読性を刷新：クリック可能リンク・区切り線・見出し・アクションカードに対応"
     ]
   },
   "min_macos": 13,
