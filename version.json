@@ -1,30 +1,30 @@
 {
-  "version": "0.11.27",
-  "released": "2026-11-25",
-  "zip": "Citeside-v0.11.27.zip",
-  "sha256": "820fdcd80753125861738da8607ac44bf327fb4459853d8be4198577c3d46a46",
-  "size": 33965838,
-  "source_sha": "162b160",
-  "notes": "💰 Issue #85 降本 85%：桌面端 5 类高频低推理任务（标题/看板翻译/检索词/会中核查/记忆归并）全部降级 Flash Lite\n📝 全球 Top 5 会议纪要升级：五段式幕僚长结构（核心摘要 / 关键结论与共识 / 议题精要 / 行动项 / 待决问题与风险）\n🔗 云分享与本机纪要可读性全面升级：消灭裸 Markdown 外链与灰点分割线，呈现清晰议题层级与高亮行动卡片",
+  "version": "0.11.28",
+  "released": "2026-11-28",
+  "zip": "Citeside-v0.11.28.zip",
+  "notes": "🔒 原生窗口内闭环：拦截应用内本机链接与 OAuth 回调误弹外部浏览器，全程留在 Citeside 桌面窗口\n🖼️ 共享屏幕截图回看（#83 Phase 2）：主窗与小窗纪要新增有界共享屏幕缩略图条与 Lightbox 大图回看\n✨ 界面极简清理：移除底部常驻的「已更新，刷新」浮条，交互更清爽",
   "notes_i18n": {
     "zh": [
-      "💰 Issue #85 降本 85%：桌面端 5 类高频低推理任务（标题/看板翻译/检索词/会中核查/记忆归并）全部降级 Flash Lite",
-      "📝 全球 Top 5 会议纪要升级：五段式幕僚长结构（核心摘要 / 关键结论与共识 / 议题精要 / 行动项 / 待决问题与风险）",
-      "🔗 云分享与本机纪要可读性全面升级：消灭裸 Markdown 外链与灰点分割线，呈现清晰议题层级与高亮行动卡片"
+      "🔒 原生窗口内闭环：拦截应用内本机链接与 OAuth 回调误弹外部浏览器，全程留在 Citeside 桌面窗口",
+      "🖼️ 共享屏幕截图回看（#83 Phase 2）：主窗与小窗纪要新增有界共享屏幕缩略图条与 Lightbox 大图回看",
+      "✨ 界面极简清理：移除底部常驻的「已更新，刷新」浮条，交互更清爽"
     ],
     "en": [
-      "💰 Issue #85 cost optimization: downgraded 5 high-frequency low-reasoning tasks to Flash Lite fast lane",
-      "📝 World Top-5 executive meeting minutes: 5-part Chief-of-Staff structure (TL;DR, Decisions, Topics, Actions, Risks)",
-      "🔗 Rich cloud share & minutes readability: clickable blue links, clean dividers, topic headers & action callouts"
+      "🔒 Native window containment: internal app links and OAuth callbacks now stay cleanly inside Citeside instead of opening Chrome",
+      "🖼️ Shared-screen snapshot gallery (#83 Phase 2): bounded snapshot thumbnail strip & Lightbox viewer in both Main and Lite windows",
+      "✨ Cleaner workspace UI: removed the persistent bottom update-refresh bar"
     ],
     "ja": [
-      "💰 Issue #85 コスト削減：タイトル・翻訳・検索クエリ等の低推論5処理を Flash Lite に最適化",
-      "📝 世界トップ5水準の5部構成議事録テンプレート（要約・合意事項・トピック別要点・アクション・未決課題）",
-      "🔗 クラウド共有と議事録の可読性を刷新：クリック可能リンク・区切り線・見出し・アクションカードに対応"
+      "🔒 ネイティブウィンドウ完結：アプリ内リンクや OAuth コールバックが外部ブラウザへ誤遷移する問題を修正",
+      "🖼️ 共有画面スナップショット表示（#83 Phase 2）：メイン・ミニ両ウィンドウの議事録にサムネイル一覧とライトボックスを追加",
+      "✨ UI スリム化：画面下部の常駐「更新済み・再読み込み」バーを削除"
     ]
   },
   "min_macos": 13,
   "stable_zip": "Citeside.zip",
   "channel": "stable",
-  "recording_acceptance": "passed"
+  "recording_acceptance": "passed",
+  "sha256": "6e863ee7cfea718262a4ab6f501bf64a44a09b9163a64cdc117fd224b8a3167f",
+  "size": 34086540,
+  "source_sha": "7653dce"
 }
